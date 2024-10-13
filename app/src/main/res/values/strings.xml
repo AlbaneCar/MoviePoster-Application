@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Poster</string>
+    <string name="search">Search</string>
+    <string name="movie_title">Movie title</string>
+</resources>
